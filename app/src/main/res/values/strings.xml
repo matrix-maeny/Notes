@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="speech_settings">Speech settings --------------------------------</string>
+    <string name="speed">Speed ----------------------</string>
+    <string name="pitch">Pitch ----------------------</string>
+    <string name="female_voices">Female voices ----------------------------------------</string>
+    <string name="default_voice">Default voice</string>
+    <string name="female_1">Female 1</string>
+    <string name="female_2">Female 2</string>
+    <string name="female_3">Female 3</string>
+    <string name="female_4">Female 4</string>
+    <string name="female_5">Female 5</string>
+    <string name="female_6">Female 6</string>
+    <string name="female_7">Female 7</string>
+    <string name="female_8">Female 8</string>
+    <string name="female_9">Female 9</string>
+    <string name="female_10">Female 10</string>
+    <string name="female_11">Female 11</string>
+</resources>
